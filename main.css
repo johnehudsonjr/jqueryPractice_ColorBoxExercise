@@ -1,0 +1,42 @@
+body {
+    background: red;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    height: 50px;
+}
+
+.container div {
+    height: 100%;
+    width: 100%;
+}
+
+.whiteBox1,
+.whiteBox2,
+.whiteBox3 {
+    background: #fff;
+    margin-bottom: 10px;
+}
+
+span {
+    text-align: center;
+    width: 180px;
+    display: inline-block;
+}
+
+.firstBtn {
+    background: green;
+}
+
+.secondBtn {
+    background: yellow;
+}
+
+.hideBtn {
+    background: white
+}
